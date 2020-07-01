@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top10</string>
+
+    <string name="api_key">AIzaSyCO5RkytUShCK_3bHz66Y2_C3r86SZV_28</string>
+
+    <string name="search_engine">001878566272855416692:hi5xxnmlfik</string>
+
+    <string name="search_hint">Поиск..</string>
+
+</resources>
